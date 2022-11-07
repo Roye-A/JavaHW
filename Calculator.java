@@ -31,9 +31,8 @@ public class Calculator {
             }
         } while (op != '0');
         System.out.println("TNX FOR USING GOOD BYE");
-        System.out.println("shloms");
-
-
+        
+        
 
     }
 }
